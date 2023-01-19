@@ -1,0 +1,156 @@
+.img
+{
+    width: 7%;
+    margin-top: 32px;
+    margin-left: 22px;
+}
+.panier
+{
+    float: right;
+    margin-top: 42px;
+    margin-right: 12px;   
+}
+header
+{
+    border-bottom: 1px;
+    position: relative;
+    background-color: azure;
+}
+.bloc
+{
+    display:flex;
+}
+.mnt
+{
+    border-right: 1px solid rgb(247, 239, 239);
+    width: 32%;
+    margin-left: 12px;
+    margin-right: 12px;
+
+}
+.img1
+{
+    width: 7%;
+    margin-top: 32px;
+    margin-left: 22px;
+}
+.img2
+{
+    width: 82%;
+    margin-top: 44px;
+    margin-left: 22px;
+}.img3
+{
+    width: 82%;
+    margin-top: 122px;
+    margin-left: 22px;
+}.img4
+{
+    width: 82%;
+    margin-top: 0px;
+    margin-left: 22px;
+}.img5
+{
+    width: 82%;
+    margin-top: 0px;
+    margin-left: 22px;
+}.img6
+{
+    width: 82%;
+    margin-top: 57px;
+    margin-left: 22px;
+}.img7
+{
+    width: 70%;
+    margin-top: 0px;
+    margin-left: 22px;
+}
+.chr
+{
+    border-right: 1px solid rgb(247, 239, 239);
+    width: 32%;
+    margin-left: 12px;
+    margin-right: 12px;
+    border-bottom: 1px solid rgb(247, 239, 239);
+
+
+}
+.rb
+{
+    border-right: 1px solid rgb(247, 239, 239);
+    width: 32%;
+    margin-left: 12px;
+    margin-right: 12px;
+    border-bottom: 1px solid rgb(247, 239, 239);
+
+
+}
+.rbc
+{
+    border-right: 1px solid rgb(247, 239, 239);
+    width: 32%;
+    margin-left: 12px;
+    margin-right: 12px;
+    border-bottom: 1px solid rgb(247, 239, 239);
+
+
+}
+.sac
+{
+    border-right: 1px solid rgb(247, 239, 239);
+    width: 32%;
+    margin-left: 12px;
+    margin-right: 12px;
+    border-bottom: 1px solid rgb(247, 239, 239);
+
+
+}
+.pull
+{
+    border-left: 1px solid rgb(247, 239, 239);
+    width: 32%;
+    margin-left: 12px;
+    margin-right: 12px;
+    border-bottom: 1px solid rgb(247, 239, 239);
+
+
+}
+.prix
+{
+display: flex;
+margin-bottom:0 ;
+margin-top: 52px;
+}
+input
+{
+ border: 0ch;   
+}
+.but
+{
+    /* display: flex; */
+    display: inline;
+}
+footer
+{
+    background-color: bisque;
+}
+footer p
+{
+    text-align: center;
+    margin: 12px;
+    padding: 12px;
+    color: rgb(59, 58, 58);
+    font-size: 32px;
+}
+.suppr
+{
+    background-color: rgb(248, 8, 8);
+    border: none;
+    color: white;
+    text-align: center;
+    
+}
+button .suppr
+{
+    align-content: center;
+}
