@@ -154,3 +154,12 @@ button .suppr
 {
     align-content: center;
 }
+#prixtotal
+{
+    text-align: center;
+    font-size: 32px;
+}
+.total
+{
+    margin-left:42%;
+}
